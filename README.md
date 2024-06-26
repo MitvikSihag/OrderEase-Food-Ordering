@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# OrderEase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a restaurant ordering system that allows users to add items to their cart, select delivery options (home delivery, pick-up, dine-in), and proceed to checkout for payment. The frontend is built using React and Redux, styled with Tailwind CSS.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- View menu items on the basis of the category selected
+- Add items to cart
+- Update item quantities in the cart
+- Choose delivery options: Home Delivery, Pick-up, Dine-in
+- Add and manage delivery addresses
+- Checkout with order summary, tax, discount, and total calculation
+- Select payment method and apply discount codes
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![OrderEase - Google Chrome 26-06-2024 19_02_59](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/f64be7ed-8a6b-4fcd-8cf4-c349a7af4c0b)
+![OrderEase - Google Chrome 26-06-2024 19_02_32](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/3663132f-af05-4ab8-896c-99d0b4404118)
+![OrderEase - Google Chrome 26-06-2024 19_02_10](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/e2331e3e-6bf5-4e5d-bf52-27af53678483)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation 
 
-### `npm test`
+1. git clone https://github.com/MitvikSihag/OrderEase-Food-Ordering.git
+2. cd Orderease-Food-Ordering
+3. npm install
+4. npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Food Ordering!!

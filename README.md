@@ -14,9 +14,9 @@ This project is a restaurant ordering system that allows users to add items to t
 
 ## Screenshots
 
-![OrderEase - Google Chrome 26-06-2024 19_02_59](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/f64be7ed-8a6b-4fcd-8cf4-c349a7af4c0b)
-![OrderEase - Google Chrome 26-06-2024 19_02_32](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/3663132f-af05-4ab8-896c-99d0b4404118)
 ![OrderEase - Google Chrome 26-06-2024 19_02_10](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/e2331e3e-6bf5-4e5d-bf52-27af53678483)
+![OrderEase - Google Chrome 26-06-2024 19_02_32](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/3663132f-af05-4ab8-896c-99d0b4404118)
+![OrderEase - Google Chrome 26-06-2024 19_02_59](https://github.com/MitvikSihag/OrderEase-Food-Ordering/assets/101905157/f64be7ed-8a6b-4fcd-8cf4-c349a7af4c0b)
 
 ## Installation 
 
